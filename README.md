@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi! This is my first time using Github.
+
+This is, Stephanie Amurao.
